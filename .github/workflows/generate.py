@@ -1,17 +1,26 @@
-import yaml  
+import requests
 
-with open("projects.yml", "r") as f:  
-    data = yaml.safe_load(f)  
+USERNAME = "aceyatech-ui"
 
-output = "# My Projects\n\n"  
+url = f"https://api.github.com/users/{USERNAME}/repos"
+repos = requests.get(url).json()
 
-for project in data["projects"]:  
-    output += f"## {project['name']}\n"  
-    output += f"{project['description']}\n\n"  
-    output += f"[View Project]({project['link']})\n\n"  
-    output += "---\n\n"  
+output = "# My Projects\n\n"
 
-with open("projects.md", "w") as f:  
-    f.write(output)  
+for repo in repos:
+    if repo.get("fork"):
+        continue
+
+    name = repo.get("name", "Unnamed project")
+    desc = repo.get("description") or "No description provided"
+    link = repo.get("html_url")
+
+    output += f"## {name}\n"
+    output += f"{desc}\n\n"
+    output += f"[View Project]({link})\n\n"
+    output += "---\n\n"
+
+with open("projects.md", "w") as f:
+    f.write(output)
 
 print("Portfolio generated successfully")
