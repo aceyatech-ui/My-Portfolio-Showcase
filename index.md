@@ -1,41 +1,30 @@
----
-title: Projects
----
+# My Projects
 
-### CI/CD Automation (GitLab + GitHub Actions)
-Built basic CI/CD pipelines using GitLab CI and GitHub Actions.  
-The pipelines include build, test, and deploy stages, demonstrating automated software delivery and workflow automation.
+## azure-cloud-administrator-labs
+Practical Azure cloud labs covering VM deployment, storage solutions, and static web hosting using blob storage.
 
-👉 [GitLab CI/CD Project](https://gitlab.com/aceyatech-ui/basic-cicd-pipeline/-/blob/main/.gitlab-ci.yml?ref_type=heads)  
-👉 [GitHub Actions Project](https://github.com/aceyatech-ui/github-actions-ci)
+[View Project](https://github.com/aceyatech-ui/azure-cloud-administrator-labs)
 
 ---
 
-### Azure Cloud Administrator Labs
-Hands-on cloud computing project using Microsoft Azure.  
-Includes virtual machine setup, storage configuration, and basic cloud infrastructure management. Demonstrates understanding of cloud deployment and system administration.
+## Log-analyzer
+No description
 
-👉 [View Azure Labs](https://github.com/aceyatech-ui/azure-cloud-administrator-labs)
-
----
-
-### File Sorter Script
-Python automation script that organizes files into folders based on file type.  
-Improves folder structure and automates repetitive file management tasks.
-
-👉 [View Project](https://github.com/aceyatech-ui/my-file-sorter-script)
+[View Project](https://github.com/aceyatech-ui/Log-analyzer)
 
 ---
 
-### Python Practice Labs
-Collection of Python exercises covering file handling, loops, conditionals, and automation practice.
+## my-file-sorter-script
+Python script that automatically sorts files into folders based on file type for basic file organization and automation practice.
 
-👉 [View Project](https://github.com/aceyatech-ui/python-practice-labs)
+[View Project](https://github.com/aceyatech-ui/my-file-sorter-script)
 
 ---
 
-### Word Count Tool (Basic Version - Needs Improvement)
-Simple Python script that counts occurrences of a word in a text file.  
-Foundational project currently being improved for better structure and usability.
+## word-count-tool
+File reader, takes user input 
 
-👉 [View Project](https://github.com/aceyatech-ui/word-count-tool)
+[View Project](https://github.com/aceyatech-ui/word-count-tool)
+
+---
+
