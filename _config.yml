@@ -1,7 +1,7 @@
-title: "Okafor Chisom | Cybersecurity & DevSecOps Portfolio"
-description: "Portfolio showcasing cybersecurity, cloud, DevSecOps, and Python automation projects"
+title: "Okafor Chisom | Cybersecurity & Automation Portfolio"
+description: "Cybersecurity, Devsecops, and Python automation projects built for practical systems and real-world workflows"
 
-theme: minima
+theme: Norlin
 
 minima:
   skin: dark
