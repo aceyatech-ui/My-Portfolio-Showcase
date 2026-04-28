@@ -4,8 +4,12 @@ on:
   push:
     branches:
       - main
-    paths:
-      - "projects.yml"
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -21,10 +25,10 @@ jobs:
           python-version: "3.10"
 
       - name: Install dependencies
-        run: pip install pyyaml
+        run: pip install requests
 
       - name: Generate portfolio
-        run: python generate.py
+        run: python .github/workflows/generate.py
 
       - name: Commit updated file
         run: |
