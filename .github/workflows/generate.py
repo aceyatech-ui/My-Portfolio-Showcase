@@ -3,7 +3,12 @@ import requests
 USERNAME = "aceyatech-ui"
 
 url = f"https://api.github.com/users/{USERNAME}/repos"
-repos = requests.get(url).json()
+
+headers = {
+    "Accept": "application/vnd.github+json"
+}
+
+repos = requests.get(url, headers=headers).json()
 
 output = "# My Projects\n\n"
 
@@ -11,8 +16,13 @@ for repo in repos:
     if repo.get("fork"):
         continue
 
-    name = repo.get("name", "Unnamed project")
-    desc = repo.get("description") or "No description provided"
+    topics = repo.get("topics", [])
+
+    if "portfolio" not in topics:
+        continue
+
+    name = repo.get("name")
+    desc = repo.get("description") or "No description"
     link = repo.get("html_url")
 
     output += f"## {name}\n"
@@ -23,4 +33,4 @@ for repo in repos:
 with open("index.md", "w") as f:
     f.write(output)
 
-print("Portfolio generated successfully")
+print("projects deployed, portfolio is alive.")
