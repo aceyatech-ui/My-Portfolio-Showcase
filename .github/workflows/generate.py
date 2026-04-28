@@ -20,7 +20,7 @@ for repo in repos:
     output += f"[View Project]({link})\n\n"
     output += "---\n\n"
 
-with open("projects.md", "w") as f:
+with open("index.md", "w") as f:
     f.write(output)
 
 print("Portfolio generated successfully")
