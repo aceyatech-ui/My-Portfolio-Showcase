@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 ---
 
----
+
 # About Me
 ---
 I build systems that solve problems.
@@ -14,7 +14,6 @@ What started as learning to code has become a commitment to building practical t
 
 I am actively developing my expertise in Python, automation, and system design while expanding into cybersecurity practices and DevSecOps methodologies. My goal is to create solutions that are not only functional, but reliable, scalable, and secure.
 
----
 ## Skills
 ---
 - Python Automation  
@@ -25,10 +24,8 @@ I am actively developing my expertise in Python, automation, and system design w
 - API Integration  
 - Problem Solving & Process Optimizations
   
----
 ## Working With Me
 ---
-
 I value clear communication, adaptability, and continuous learning. I enjoy collaborating with others, sharing ideas, and approaching challenges with curiosity and discipline.
 
 I am always open to opportunities that allow me to contribute, learn, and grow in meaningful technical environments. Whether working independently or as part of a team, I bring consistency, initiative, and a strong commitment to delivering quality work.
