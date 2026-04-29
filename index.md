@@ -1,5 +1,3 @@
-# My Projects
-
 ## azure-cloud-administrator-labs
 Practical Azure cloud labs covering VM deployment, storage solutions, and static web hosting using blob storage.
 
