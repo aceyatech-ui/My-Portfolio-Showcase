@@ -15,8 +15,6 @@ What started as learning to code has become a commitment to building practical t
 I am actively developing my expertise in Python, automation, and system design while expanding into cybersecurity practices and DevSecOps methodologies. My goal is to create solutions that are not only functional, but reliable, scalable, and secure.
 
 ---
-
----
 ## Skills
 ---
 - Python Automation  
@@ -26,9 +24,7 @@ I am actively developing my expertise in Python, automation, and system design w
 - Cloud & Deployment Workflows  
 - API Integration  
 - Problem Solving & Process Optimizations
-
----
-   
+  
 ---
 ## Working With Me
 ---
