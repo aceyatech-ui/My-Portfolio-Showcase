@@ -21,7 +21,6 @@ I am actively developing my expertise in Python, automation, and system design w
 - DevSecOps Fundamentals  
 - Cybersecurity Concepts  
 - Cloud & Deployment Workflows  
-- API Integration  
 - Problem Solving & Process Optimizations
   
 ## Working With Me
