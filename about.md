@@ -3,33 +3,30 @@ title: "About"
 permalink: /about/
 ---
 
+---
 # About Me
 
-I am Okafor Chisom, a cybersecurity and DevSecOps enthusiast focused on building skills in cloud computing, automation, and security engineering.
+I build systems that solve problems.
 
-I enjoy working with Python, Linux systems, and cloud platforms like Azure.
+My journey into tech began with curiosity and a drive to create efficient solutions, and it has grown into a focused path in cybersecurity, DevSecOps, and software engineering. My current entry point is Python automation, where I design scripts and workflows that reduce repetitive tasks, improve efficiency, and make systems smarter.
 
-My goal is to build secure, automated systems and grow into a strong cybersecurity/cloud engineer.
+What started as learning to code has become a commitment to building practical tools that deliver real value. From automating portfolio updates with GitHub Actions to exploring secure cloud workflows, I approach every project as an opportunity to sharpen both technical skill and problem-solving ability.
 
+I am actively developing my expertise in Python, automation, and system design while expanding into cybersecurity practices and DevSecOps methodologies. My goal is to create solutions that are not only functional, but reliable, scalable, and secure.
 ---
-
 ## Skills
 
 - Python Automation  
-- Linux (WSL, CLI tools)  
-- Git & GitHub  
-- Azure Cloud Basics  
+- Git & GitHub Actions  
 - DevSecOps Fundamentals  
-
+- Cybersecurity Concepts  
+- Cloud & Deployment Workflows  
+- API Integration  
+- Problem Solving & Process Optimization  
 ---
+## Working With Me
 
-## Certifications
+I value clear communication, adaptability, and continuous learning. I enjoy collaborating with others, sharing ideas, and approaching challenges with curiosity and discipline.
 
-- Google IT Automation with Python  
-- Google Cybersecurity Certificate  
-- Google Cloud Infrastructure Basics  
-- Intro to Devsecops by Board Infinity
-- Intro to Devsecops by John Hopkins University (in progress)
-- CI/CD by Coursera (Iin progress)
-
+I am always open to opportunities that allow me to contribute, learn, and grow in meaningful technical environments. Whether working independently or as part of a team, I bring consistency, initiative, and a strong commitment to delivering quality work.
 ---
