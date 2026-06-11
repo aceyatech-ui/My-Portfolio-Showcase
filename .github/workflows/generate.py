@@ -16,10 +16,10 @@ for repo in repos:
     if repo.get("fork"):
         continue
 
-    if "portfolio" not in topics:
-        continue
-        
     topics = repo.get("topics", [])
+    
+    if "portfolio" not in topics:   
+        continue
 
     name = repo.get("name")
     desc = repo.get("description") or "No description"
