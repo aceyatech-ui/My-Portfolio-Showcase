@@ -1,35 +1,77 @@
 # My Projects
 
+## aceyatech-ui.github.io
+Portfolio site featuring cybersecurity projects, DevSecOps work, and hands-on learning progress built with GitHub Pages.
+
+[View Project](https://github.com/aceyatech-ui/aceyatech-ui.github.io)
+
+---
+
 ## azure-cloud-administrator-labs
-Designed and completed hands-on cloud administration labs focused on virtual machine deployment, Azure Blob Storage configuration, and resource management within Microsoft Azure. Gained practical experience in provisioning cloud infrastructure, managing storage solutions, and understanding core cloud administration workflows. Strengthened foundatio
+Hands-on cloud administration labs on Microsoft Azure: virtual machine deployment, Blob Storage configuration, and resource management. Provisioned cloud infrastructure and managed storage solutions to strengthen core cloud administration workflows.
 
 [View Project](https://github.com/aceyatech-ui/azure-cloud-administrator-labs)
 
 ---
 
+## Basic-Network-Recon-Tool
+Python port scanner for learning network reconnaissance. Scans common ports and identifies open services. Built for ethical use only.
+
+[View Project](https://github.com/aceyatech-ui/Basic-Network-Recon-Tool)
+
+---
+
+## github-pages-ci-workflow
+Checking markdown files for formatting errors before publishing to GitHub pages
+
+[View Project](https://github.com/aceyatech-ui/github-pages-ci-workflow)
+
+---
+
 ## Log-analyzer
-Developed a Python-based log analyzer that processes system log files to identify patterns, errors, and anomalies. The tool improves troubleshooting efficiency by automating log review and summarizing critical events, reducing the time required for manual inspection. Built with a focus on practical system monitoring and operational insight.
+Python-based log analyzer that processes system logs to identify errors, patterns, and anomalies. Automates log review and summarizes critical events to speed up troubleshooting and system monitoring.
 
 [View Project](https://github.com/aceyatech-ui/Log-analyzer)
 
 ---
 
 ## my-file-sorter-script
-Created an automation script in Python that organizes files into categorized folders based on file type or extension. Designed to streamline file management and reduce clutter, the tool improves productivity by automatically sorting documents, images, videos, and other assets into structured directories.
+Python automation script that organizes files into categorized folders by type or extension. Streamlines file management by sorting documents, images, videos, and assets into structured directories.
 
 [View Project](https://github.com/aceyatech-ui/my-file-sorter-script)
 
 ---
 
 ## My-Portfolio-Showcase
-Designed and deployed a personal portfolio website to showcase technical projects, certifications, and professional achievements. Integrated automation workflows for dynamic project updates and maintained a clean, accessible interface for recruiters and collaborators. Serves as both a professional brand hub and a demonstration of technical implemen
+A personal portfolio website showcasing technical projects, certifications, and professional achievements. Features automated project updates and a clean, accessible interface for recruiters and collaborators.
 
 [View Project](https://github.com/aceyatech-ui/My-Portfolio-Showcase)
 
 ---
 
+## Personality-quiz-what-kind-of-animal-are-you-
+using conditionals to make a personality quiz
+
+[View Project](https://github.com/aceyatech-ui/Personality-quiz-what-kind-of-animal-are-you-)
+
+---
+
+## python-practice-labs
+A documentation of my python learnings and practices.
+
+[View Project](https://github.com/aceyatech-ui/python-practice-labs)
+
+---
+
+## Rock-Paper-Scissors-game
+A fun game of rock paper scissors
+
+[View Project](https://github.com/aceyatech-ui/Rock-Paper-Scissors-game)
+
+---
+
 ## word-count-tool
-Built a Python utility that takes user input, analyzes text files and generates word count statistics, including total words and unique word frequency. Developed to support content analysis and data processing tasks, the tool demonstrates proficiency in file handling, string manipulation, and reporting logic.
+Python utility that analyzes text files to generate word count statistics including total words and unique word frequency. Supports content analysis and data processing with file handling, string manipulation, and reporting logic.
 
 [View Project](https://github.com/aceyatech-ui/word-count-tool)
 
