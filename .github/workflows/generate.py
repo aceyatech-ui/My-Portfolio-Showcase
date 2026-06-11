@@ -18,9 +18,6 @@ for repo in repos:
 
     topics = repo.get("topics", [])
 
-    if "portfolio" not in topics:
-        continue
-
     name = repo.get("name")
     desc = repo.get("description") or "No description"
     link = repo.get("html_url")
@@ -33,4 +30,4 @@ for repo in repos:
 with open("index.md", "w") as f:
     f.write(output)
 
-print("projects deployed, portfolio is alive.")
+print("project deployed, portfolio is alive.")
