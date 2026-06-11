@@ -16,6 +16,9 @@ for repo in repos:
     if repo.get("fork"):
         continue
 
+    if "portfolio" not in topics:
+        continue
+        
     topics = repo.get("topics", [])
 
     name = repo.get("name")
